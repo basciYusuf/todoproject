@@ -1,0 +1,21 @@
+.wrapper {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f4f6f8;
+}
+
+.success {
+  margin-top: 1rem;
+  color: #2d7a2d;
+  text-align: center;
+  font-weight: 500;
+}
+
+.error {
+  margin-top: 1rem;
+  color: #d33;
+  text-align: center;
+  font-weight: 500;
+}
